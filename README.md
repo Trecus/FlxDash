@@ -1,4 +1,5 @@
-# FlxDash
+#   FlxDash
+<img src="https://raw.githubusercontent.com/Trecus/FlxDash/main/flxdash.png"></img><br>
 A version of Geometry Dash built using the HaxeFlixel game engine for the purpose of modding.
 
 This was made for the purpose of not only porting the game to an engine I understand, but to also make it easy to mod without fully decompiling the main Geometry Dash game. <br><br> DO NOT use this to pirate the game, it costs $5 on steam, just buy it. Plus, this doesn't use RobTops servers, so not fully pirating.
